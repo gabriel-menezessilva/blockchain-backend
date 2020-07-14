@@ -4,5 +4,5 @@ This project scope will include an entire application ranging from backend and a
 
 ## Technologies
 Project is created with:
-    * Javascript
-    * Tested with Jest
+* Javascript
+* Tested with Jest
